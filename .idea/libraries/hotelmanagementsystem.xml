@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hotelmanagementsystem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/hotelmanagementsystem.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
